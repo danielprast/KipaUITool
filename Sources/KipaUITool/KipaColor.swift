@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  KipaColor.swift
 //  
 //
 //  Created by Daniel Prastiwa on 21/02/22.
